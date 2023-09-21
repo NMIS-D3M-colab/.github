@@ -1,5 +1,5 @@
 ## NMIS GitHub
-Welcome to the NMIS GitHub organisation!
+Welcome to the NMIS data driven manufaturing colab github page!
 
 Please read this guide before creating repositories, teams, projects or changing aspects of the site.
 ### Code Repositories
