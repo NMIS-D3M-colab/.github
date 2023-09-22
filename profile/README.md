@@ -1,6 +1,12 @@
 ## NMIS GitHub
 Welcome to the NMIS data driven manufacturing colab github page!
 
+A unique environment that manufacturers of all sizes and from all sectors can use to work together with research partners and the public sector to innovate and grow their businesses.
+
+It is a place for accelerating innovation, bridging the gap between academic and industry research and turning ideas into a reality to boost manufacturing businesses.
+
+The collaboration hub is being built as part of the new innovative National Manufacturing Institute Scotland facility.
+
 Please read this guide before creating repositories, teams, projects or changing aspects of the site.
 ### Code Repositories
 Code repositories (repos) may be created for projects or may be used for ongoing capability development. Repos may be public or private:
